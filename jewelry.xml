@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+  <Jewelries>
+
+  <JewelriesType="Necklace,">
+    <brand name="BORSHEIMS">
+      <Metal Type="Gold">
+        <product name="Yellow Gold Flat Link High Polish Chain ">
+          <size>16"</size>
+          <price>$312.00</price>
+          <description>Versatile and comfortable, this flat link chain necklace is great for layering or worn alone. Fashioned in 14K yellow gold, the high polish reflects light for the perfect amount of shine and sparkle. Measuring 16", this necklace is sure to be a staple in your wardrobe</description>
+        </product>
+<product name="Yellow Gold Small Paperclip Link Chain">
+          <price>$559.00</price>
+          <description>Meet your new favorite accessory. This small paperclip link chain necklace is fashioned in solid 14K yellow gold with a gleaming, polished finish. Measuring 18" in length, the necklace features small links measuring 2.45 mm in width. Wear it solo to add a touch of polish to a casual ensemble, or mix and match with other pendants and chains for a layered statement look. </description>
+<product name="Yellow Gold 1.8 mm Round Hollow Box Chain">
+          <price>$514.00</price>
+          <description>ive your everyday look a gleaming makeover with this 14K Yellow Gold 1.8MM Round Hollow Box Chain, 24". Fashioned in 14K yellow gold, this chain features hollow box-style links with smoothly rounded edges for convenient wearing. Measuring 24" in length and 1.8mm in width, this chain is sure to elevate your outfit. </description>
+<product name="Yellow Gold Medium Paperclip Link Chain">
+          <price>$1,733.00</price>
+          <description>Add an edge to any outfit with this sophisticated paperclip link chain necklace. Made with elegant 14k yellow gold, this statement accessory is made to stand out. </description>
+            </product>
+        <product name="Yellow GoldWheat chain">
+          <price>$439.00</price>
+          <description>This 1.25 mm wheat chain in 14K yellow gold is a versatile staple piece that's surprisingly chic worn solo.</description>
+        </product>
+      </size>
+    </brand>
+   <JewelriesType="Earings">
+    <brand name="Aresa">
+      <Metal Type="White Gold">
+        <product name="Round & Emerald Cut Diamond Dangle ">
+          <size>8mm</size>
+          <price>$10,782.00</price>
+          <description>Classical elements offer a timeless touch to these contemporary emerald cut diamond dangle earrings by Aresa. Slim white gold posts suspend strands of sparkling emerald cut diamonds ending in single round diamonds for a traditional final touch.</description>
+        </product>
+<product name="Graduated Round Diamond Dangle Earrings ">
+          <price>$6,578.00</price>
+          <description>ntrance with every sway of these stunning diamond dangle earrings by Aresa, featuring a scintillating stack of graduated round diamonds. Each glittering round diamond is linked together by a cool tone white gold, allowing the cascading diamond earrings to take center stage. </description>
+<product name="Beauvoir Diamond Dangle Huggie Earrings">
+          <price> $2,914.00</price>
+          <description>Crafted in recycled 18K white gold, the Beauvoir huggie hoops feature diamond pave fronts and dancing diamond dangles; minimal style for maximum impact. The Beauvoir earrings are named after Simone de Beauvoir, an iconoclastic intellectual, existentialist philosopher, political activist, and social theorist. "One is not born, but rather becomes, a woman.</description>
+<product name="Dancing Diamond Fringe Circle Dangle Earrings">
+          <price>$3,750.00</price>
+          <description>Casual elegance turns these dancing diamond fringe circle dangle earrings into a perfect choice for everyday wear. Impress with a large hoop design in 18K white gold with 20 round earrings totaling 1.41 cttw sparkling as they hang in charming fashion. </description>
+            </product>
+        <product name="Diamond Quintet Shimmy Shake Oval Hoop Earrings">
+          <price>$3,128.00</price>
+          <description> All white gold and sterling silver is presumed to be rhodium plated</description>
+        </product>
+      </size>
+    </brand>
+   <JewelriesType="Rings">
+    <brand name="Doves">
+      <Metal Type="Silver">
+        <product name="Little Bird Round Blue Topaz Ring with Baguette & Round Diamond Halo">
+          <size>6cm</size>
+          <price>$3,295.00</price>
+          <description>Designed to be noticed, this 18K white gold ring from Doves beautifully presents a 3.83 ct cool blue topaz gemstone.</description>
+        </product>
+<product name="Mykonos Diamond Mosaic Ring with Satin Bezel and Pear Shaped Side Stones">
+          <price>$3,309.00</price>
+          <description>Escape to the Mediterranean with mosaics of baguettes. The Mykonos ring from Doves features a mosaic of 9 diamonds inside a satin-textured octagon bezel in satin 18K yellow gold.  </description>
+<product name="Mondrian Invisible Set Diamond Mosaic & Scalloped Halo Ring">
+          <price>$3,220.00</price>
+          <description>A mosaic of dazzling diamonds graces this 18K white gold invisible set ring from Doves.</description>
+<product name="Mondrian Invisible Set Diamond Mosaic Ring in Satin">
+          <price>$3,193.00</price>
+          <description>A mosaic of dazzling diamonds graces this invisible set ring from Doves. Giving the illusion of a single diamond</description>
+            </product>
+        <product name="Diamond Looping Teardrop Split Shank Ring">
+          <price>$2,310.00</price>
+          <description>This regal diamond ring from Doves features a split shank culminating at a looping, open teardrop shaped corona. </description>
+        </product>
+      </size>
+    </brand>
+<JewelriesType="Bracelet">
+    <brand name="FREDERIC SAGE">
+      <Metal Type="Yellow Gold">
+        <product name="Diamond Coil Stretch Bracelet">
+          <size>14cm</size>
+          <price>$2,970.00</price>
+          <description>The coil stretch design offers a stunning textured look and feel to this Frederic Sage diamond stretch bracelet.</description>
+        </product>
+<product name="Diamond Coil Stretch Bracelet">
+          <price>$2,970.00</price>
+          <description>Modern and sophisticatedly slinky, this Frederic Sage diamond stretch bracelet is sure to turn heads</description>
+<product name="Black & White Diamond Tennis Bracelet">
+          <price>$3,220.00</price>
+          <description>A mosaic of dazzling diamonds graces this 18K white gold invisible set ring from Doves.</description>
+<product name="Mondrian Invisible Set Diamond Mosaic Ring in Satin">
+          <price>$4,495.00/price>
+          <description>Bring edgy vibes to casual ensembles with this black diamond tennis bracelet by Frederic Sage.</description>
+            </product>
+        <product name="Turquoise Rectangle Bezel">
+          <price>$400.00</price>
+          <description>Spectacular colors elevate the minimalist modern aesthetic of this Frederic Sage turquoise station bracelet. </description>
+        </product>
+      </size>
+    </brand>
+<JewelriesType="Chain">
+    <brand name="Alex Woo">
+      <Metal Type="Silver">
+        <product name="Ball Chain">
+          <size>16"</size>
+          <price>$2,970.00</price>
+          <description>Ball chains, also known as bead chains, are constructed of orbs connected by bars. Ball chains provide a casual, urban-chic look that pairs well with small pendants.</description>
+        </product>
+<product name="Box Chain">
+          <price>$2,970.00</price>
+          <description>Anything but basic, the box chain, also known as the “Venetian Chain,” is symmetry at its finest. Made up of interconnected square links, the design delivers a natural yet unique visual allure. </description>
+<product name="Cable Chain">
+          <price>$3,220.00</price>
+          <description>Dress it up or dress it down; the simplicity of the cable chain makes it a popular choice for everyday wear. </description>
+<product name="Cord Chain">
+          <price>$4,495.00/price>
+          <description>Cord chains are an easy and versatile option for those looking to highlight a pendant. </description>
+            </product>
+        <product name="Figaro Chain">
+          <price>$400.00</price>
+          <description>Classic with a bit of bold, the Figaro chain might speak to you. This chain is constructed of 3 to 5 small, round or oval links with larger links between, creating elevated durability that’s strong enough to adorn a pendant or stylish enough to be worn alone.</description>
+        </product>
+      </size>
+    </brand>
